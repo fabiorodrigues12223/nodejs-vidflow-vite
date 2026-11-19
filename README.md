@@ -59,4 +59,4 @@ Depois, abra no navegador o endereço que aparecer no terminal (normalmente `htt
 **Fábio Rodrigues Costa**
 Estudante de Engenharia de Software – UniCEUB
 
-[GitHub](https://github.com/fabiorodrigues12223) · [LinkedIn](www.linkedin.com/in/fábio-rodrigues1203)
+[GitHub](https://github.com/fabiorodrigues12223) · [LinkedIn](https://www.linkedin.com/in/fábio-rodrigues1203)
