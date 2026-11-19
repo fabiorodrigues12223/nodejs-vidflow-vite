@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/35066240/README.md)
+
 # 🎬 VidFlow
 
 Plataforma de vídeos inspirada no YouTube, com navegação por menu lateral, busca e filtro por categorias. Os vídeos são carregados dinamicamente a partir de uma API.
@@ -32,10 +32,10 @@ Pré-requisito: ter o [Node.js](https://nodejs.org/) instalado.
 
 ```bash
 # Clone o repositório
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/fabiorodrigues12223/nodejs-vidflow-vite.git
 
 # Entre na pasta do projeto
-cd NOME-DO-REPOSITORIO
+cd nodejs-vidflow-vite
 
 # Instale as dependências
 npm install
