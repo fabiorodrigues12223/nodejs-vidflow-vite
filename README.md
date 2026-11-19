@@ -5,7 +5,6 @@ Plataforma de vídeos inspirada no YouTube, com navegação por menu lateral, bu
 
 🔗 **Acesse o projeto:** [nodejs-vidflow-vite-xi-eight.vercel.app](https://nodejs-vidflow-vite-xi-eight.vercel.app/)
 
-![Preview do VidFlow](./preview.png)
 
 ---
 
